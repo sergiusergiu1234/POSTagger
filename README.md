@@ -38,7 +38,7 @@
 | **spaCy Tok2Vec**                     | 99.84                     | 95.38                    | 21,355           |
 | **spaCy Tok2Vec with 'ro_core_news_lg' pretrained vectors**        | 99.84                     | 96.74                    | 3419           |
 | **distilbert-base-multilingual-cased** | 99.84                     | 94.47                    | 405              |
-| **dumitrescustefan/bert-base-romanian-cased-v1** |  89                    |                   |               |
+| **dumitrescustefan/bert-base-romanian-cased-v1** |     99.84                |     89               |               |
 
 
 
