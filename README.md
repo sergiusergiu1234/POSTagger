@@ -42,11 +42,3 @@
 
 
 
-
-## Training Morphologizer and Tagger in the same pipeline
-| Model                                | Tokenization Accuracy (%) | POS Tagging Accuracy (%) | Speed (words/sec) |
-|--------------------------------------|--------------------------|-------------------------|------------------|
-| **distilbert-base-multilingual-cased** | 99.84                     | 94.47                    | 451              |
-E    #       LOSS TOK2VEC  LOSS TAGGER  LOSS MORPH...  TAG_ACC  POS_ACC  MORPH_ACC  SCORE
- 26   11000        888.91     10216.15       10617.87    91.70    94.50      91.99    0.92
- 26   11200        894.96     10019.30       10411.38    91.75    94.47      92.05    0.92
